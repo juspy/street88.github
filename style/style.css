@@ -519,7 +519,7 @@ body{
         line-height: 18px;
     }
     .main__nav-link:after{
-    top: 14px;
+    top: 15px;
 	}
 }
 @media(max-width: 632px){
