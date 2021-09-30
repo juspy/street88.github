@@ -518,6 +518,9 @@ body{
         font-size: 12px;
         line-height: 18px;
     }
+    .main__nav-link:after{
+    top: 14px;
+	}
 }
 @media(max-width: 632px){
     .main__button-price{
